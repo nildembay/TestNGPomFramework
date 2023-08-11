@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="smoke tests" >
+    <test name="smoke tests">
+        <classes>
+            <class name="tests.TC15_BestSeller"/>
+            <class name="tests.TC02_Categories"/>
+            <class name="tests.TC03_SearchViaSearchArea"/>
+
+        </classes>
+    </test>
+</suite>

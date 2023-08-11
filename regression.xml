@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="regression" >
+    <test name="regression tests">
+        <classes>
+            <class name="tests.TC01_ValidLogin"/>
+            <class name="tests.TC02_Categories"/>
+            <class name="tests.TC03_SearchViaSearchArea"/>
+            <class name="tests.TC04_FindHighestPrice"/>
+            <class name="tests.TC05_PriceRangeDisplay"/>
+            <class name="tests.TC06_FindLowestPrice"/>
+            <class name="tests.TC07_AddToCart"/>
+            <class name="tests.TC08_BrandsLinkVerification"/>
+            <class name="tests.TC09_FilteringProduct"/>
+            <class name="tests.TC10_SaleZoneScreen"/>
+            <class name="tests.TC11_RemoveItemFromCart"/>
+            <class name="tests.TC12_Currency"/>
+            <class name="tests.TC13_HomePage"/>
+            <class name="tests.TC14_QuantityTest"/>
+            <class name="tests.TC15_BestSeller"/>
+
+        </classes>
+    </test>
+</suite>

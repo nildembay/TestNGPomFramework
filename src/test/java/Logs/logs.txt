@@ -1,0 +1,332 @@
+2023-07-30 17:57:09 INFO  Log:37 - Go to main page
+2023-07-30 17:57:09 INFO  Log:37 - Go to main page
+2023-07-30 17:57:23 INFO  Log:37 - Main page direction is success
+2023-07-30 17:57:28 INFO  Log:37 - currency selected
+2023-07-30 17:57:46 INFO  Log:37 - Go to main page
+2023-07-30 17:57:57 INFO  Log:37 - Main page direction is success
+2023-07-30 17:57:57 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 17:58:04 INFO  Log:37 - Wanted: JEANS
+2023-07-30 17:58:04 INFO  Log:37 - Listed: JEANS
+2023-07-30 17:58:06 INFO  Log:37 - Search process is success
+2023-07-30 17:59:42 INFO  Log:37 - Go to main page
+2023-07-30 17:59:51 INFO  Log:37 - Main page direction is success
+2023-07-30 17:59:58 INFO  Log:37 - currency selected
+2023-07-30 18:00:06 INFO  Log:37 - Verified that products are listed according to the selected currency
+2023-07-30 18:00:27 INFO  Log:37 - Go to main page
+2023-07-30 18:00:27 INFO  Log:37 - Go to main page
+2023-07-30 18:01:04 INFO  Log:37 - Go to main page
+2023-07-30 18:01:20 INFO  Log:37 - Go to main page
+2023-07-30 18:01:20 INFO  Log:37 - Go to main page
+2023-07-30 18:01:33 INFO  Log:37 - Main page direction is success
+2023-07-30 18:01:48 INFO  Log:37 - currency selected
+2023-07-30 18:02:07 INFO  Log:37 - Go to main page
+2023-07-30 18:02:17 INFO  Log:37 - Main page direction is success
+2023-07-30 18:02:17 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 18:02:24 INFO  Log:37 - Wanted: JEANS
+2023-07-30 18:02:24 INFO  Log:37 - Listed: JEANS
+2023-07-30 18:02:26 INFO  Log:37 - Search process is success
+2023-07-30 18:03:30 INFO  Log:37 - Go to main page
+2023-07-30 18:03:39 INFO  Log:37 - Main page direction is success
+2023-07-30 18:03:41 INFO  Log:37 - Home category test starts
+2023-07-30 18:03:45 INFO  Log:37 - Verified category content on Home page
+2023-07-30 18:03:50 INFO  Log:37 - Go to main page
+2023-07-30 18:04:04 INFO  Log:37 - Main page direction is success
+2023-07-30 18:04:04 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 18:04:14 INFO  Log:37 - Wanted: JEANS
+2023-07-30 18:04:14 INFO  Log:37 - Listed: JEANS
+2023-07-30 18:04:16 INFO  Log:37 - Search process is success
+2023-07-30 18:04:37 INFO  Log:37 - Go to main page
+2023-07-30 18:04:45 INFO  Log:37 - Main page direction is success
+2023-07-30 18:04:47 INFO  Log:37 - Home category test starts
+2023-07-30 18:04:49 INFO  Log:37 - Go to main page
+2023-07-30 18:04:51 INFO  Log:37 - Verified category content on Home page
+2023-07-30 18:04:56 INFO  Log:37 - Go to main page
+2023-07-30 18:04:59 INFO  Log:37 - Main page direction is success
+2023-07-30 18:04:59 INFO  Log:37 - Test of best-selling product listings begins
+2023-07-30 18:05:05 INFO  Log:37 - Confirmed more than 90% preference for the listed products
+2023-07-30 18:05:09 INFO  Log:37 - Main page direction is success
+2023-07-30 18:05:09 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 18:05:10 INFO  Log:37 - Go to main page
+2023-07-30 18:05:21 INFO  Log:37 - Wanted: JEANS
+2023-07-30 18:05:21 INFO  Log:37 - Listed: JEANS
+2023-07-30 18:05:23 INFO  Log:37 - Search process is success
+2023-07-30 18:05:24 INFO  Log:37 - Main page direction is success
+2023-07-30 18:05:24 INFO  Log:37 - Shein main category verification starts
+2023-07-30 18:05:24 INFO  Log:37 - Main categories verified
+2023-07-30 18:05:29 INFO  Log:37 - Go to main page
+2023-07-30 18:05:41 INFO  Log:37 - Main page direction is success
+2023-07-30 18:05:41 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 18:05:48 INFO  Log:37 - Wanted: JEANS
+2023-07-30 18:05:48 INFO  Log:37 - Listed: JEANS
+2023-07-30 18:05:50 INFO  Log:37 - Search process is success
+2023-07-30 18:09:10 INFO  Log:37 - Go to main page
+2023-07-30 18:09:10 INFO  Log:37 - Go to main page
+2023-07-30 18:09:45 INFO  Log:37 - Go to main page
+2023-07-30 18:10:15 INFO  Log:37 - Go to main page
+2023-07-30 18:10:15 INFO  Log:37 - Go to main page
+2023-07-30 18:10:25 INFO  Log:37 - Main page direction is success
+2023-07-30 18:10:25 INFO  Log:37 - Shein main category verification starts
+2023-07-30 18:10:25 INFO  Log:37 - Main categories verified
+2023-07-30 18:10:36 INFO  Log:37 - Go to main page
+2023-07-30 18:26:38 INFO  Log:37 - Go to main page
+2023-07-30 18:26:48 INFO  Log:37 - Main page direction is success
+2023-07-30 18:26:48 INFO  Log:37 - Test of best-selling product listings begins
+2023-07-30 18:26:51 INFO  Log:37 - Confirmed more than 90% preference for the listed products
+2023-07-30 18:26:57 INFO  Log:37 - Go to main page
+2023-07-30 18:27:07 INFO  Log:37 - Main page direction is success
+2023-07-30 18:27:07 INFO  Log:37 - Shein main category verification starts
+2023-07-30 18:27:07 INFO  Log:37 - Main categories verified
+2023-07-30 18:27:13 INFO  Log:37 - Go to main page
+2023-07-30 18:27:24 INFO  Log:37 - Main page direction is success
+2023-07-30 18:27:24 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 18:27:31 INFO  Log:37 - Wanted: JEANS
+2023-07-30 18:27:31 INFO  Log:37 - Listed: JEANS
+2023-07-30 18:27:33 INFO  Log:37 - Search process is success
+2023-07-30 18:32:11 INFO  Log:37 - Go to main page
+2023-07-30 18:32:20 INFO  Log:37 - Main page direction is success
+2023-07-30 18:32:22 INFO  Log:37 - Home category test starts
+2023-07-30 18:32:24 INFO  Log:37 - Verified category content on Home page
+2023-07-30 18:32:29 INFO  Log:37 - Go to main page
+2023-07-30 18:32:40 INFO  Log:37 - Main page direction is success
+2023-07-30 18:32:40 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 18:32:46 INFO  Log:37 - Wanted: JEANS
+2023-07-30 18:32:46 INFO  Log:37 - Listed: JEANS
+2023-07-30 18:32:48 INFO  Log:37 - Search process is success
+2023-07-30 18:35:24 INFO  Log:37 - Go to main page
+2023-07-30 18:35:24 INFO  Log:37 - Go to main page
+2023-07-30 18:35:43 INFO  Log:37 - Main page direction is success
+2023-07-30 18:35:43 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 18:35:57 INFO  Log:37 - Go to main page
+2023-07-30 18:36:09 INFO  Log:37 - Main page direction is success
+2023-07-30 18:36:09 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 18:36:16 INFO  Log:37 - Wanted: JEANS
+2023-07-30 18:36:16 INFO  Log:37 - Listed: JEANS
+2023-07-30 18:36:18 INFO  Log:37 - Search process is success
+2023-07-30 18:40:12 INFO  Log:37 - Go to main page
+2023-07-30 18:40:12 INFO  Log:37 - Go to main page
+2023-07-30 18:40:22 INFO  Log:37 - Main page direction is success
+2023-07-30 18:40:22 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 18:40:38 INFO  Log:37 - Wanted: JEANS
+2023-07-30 18:40:38 INFO  Log:37 - Listed: JEANS
+2023-07-30 18:40:40 INFO  Log:37 - Search process is success
+2023-07-30 18:43:31 INFO  Log:37 - Go to main page
+2023-07-30 18:43:39 INFO  Log:37 - Main page direction is success
+2023-07-30 18:43:39 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 18:43:46 INFO  Log:37 - Wanted: JEANS
+2023-07-30 18:43:46 INFO  Log:37 - Listed: JEANS
+2023-07-30 18:43:48 INFO  Log:37 - Search process is success
+2023-07-30 18:45:51 INFO  Log:37 - Go to main page
+2023-07-30 18:46:00 INFO  Log:37 - Main page direction is success
+2023-07-30 18:46:00 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 18:46:06 INFO  Log:37 - Wanted: JEANS
+2023-07-30 18:46:06 INFO  Log:37 - Listed: JEANS
+2023-07-30 18:46:08 INFO  Log:37 - Search process is success
+2023-07-30 18:48:17 INFO  Log:37 - Go to main page
+2023-07-30 18:48:26 INFO  Log:37 - Main page direction is success
+2023-07-30 18:48:28 INFO  Log:37 - Home category test starts
+2023-07-30 18:48:30 INFO  Log:37 - Verified category content on Home page
+2023-07-30 18:48:36 INFO  Log:37 - Go to main page
+2023-07-30 18:48:46 INFO  Log:37 - Main page direction is success
+2023-07-30 18:48:46 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 18:48:53 INFO  Log:37 - Wanted: JEANS
+2023-07-30 18:48:53 INFO  Log:37 - Listed: JEANS
+2023-07-30 18:48:55 INFO  Log:37 - Search process is success
+2023-07-30 18:51:07 INFO  Log:37 - Go to main page
+2023-07-30 18:51:17 INFO  Log:37 - Main page direction is success
+2023-07-30 18:51:19 INFO  Log:37 - Home category test starts
+2023-07-30 18:51:21 INFO  Log:37 - Verified category content on Home page
+2023-07-30 18:51:27 INFO  Log:37 - Go to main page
+2023-07-30 18:51:37 INFO  Log:37 - Main page direction is success
+2023-07-30 18:51:37 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 18:51:43 INFO  Log:37 - Wanted: JEANS
+2023-07-30 18:51:43 INFO  Log:37 - Listed: JEANS
+2023-07-30 18:51:46 INFO  Log:37 - Search process is success
+2023-07-30 19:16:31 INFO  Log:37 - Go to main page
+2023-07-30 19:16:41 INFO  Log:37 - Main page direction is success
+2023-07-30 19:16:41 INFO  Log:37 - Starting sign in process
+2023-07-30 19:17:33 INFO  Log:37 - Sign in process is success
+2023-07-30 19:17:33 INFO  Log:37 - Starting sign out process
+2023-07-30 19:17:41 INFO  Log:37 - Sign out process is success
+2023-07-30 19:17:46 INFO  Log:37 - Go to main page
+2023-07-30 19:17:56 INFO  Log:37 - Main page direction is success
+2023-07-30 19:17:56 INFO  Log:37 - Shein main category verification starts
+2023-07-30 19:17:56 INFO  Log:37 - Main categories verified
+2023-07-30 19:18:01 INFO  Log:37 - Go to main page
+2023-07-30 19:18:12 INFO  Log:37 - Main page direction is success
+2023-07-30 19:18:12 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 19:18:18 INFO  Log:37 - Wanted: JEANS
+2023-07-30 19:18:18 INFO  Log:37 - Listed: JEANS
+2023-07-30 19:18:21 INFO  Log:37 - Search process is success
+2023-07-30 19:18:26 INFO  Log:37 - Go to main page
+2023-07-30 19:18:39 INFO  Log:37 - Main page direction is success
+2023-07-30 19:18:39 INFO  Log:37 - Starting search process : shirts is/are listed
+2023-07-30 19:18:50 INFO  Log:37 - Wanted: SHIRTS
+2023-07-30 19:18:50 INFO  Log:37 - Listed: SHIRTS
+2023-07-30 19:18:52 INFO  Log:37 - Search process is success
+2023-07-30 19:18:55 INFO  Log:37 - The products are listed by high to low
+2023-07-30 19:19:00 INFO  Log:37 - Go to main page
+2023-07-30 19:19:10 INFO  Log:37 - Main page direction is success
+2023-07-30 19:19:10 INFO  Log:37 - Starting search process : phone is/are listed
+2023-07-30 19:19:17 INFO  Log:37 - Wanted: PHONE
+2023-07-30 19:19:17 INFO  Log:37 - Listed: PHONE
+2023-07-30 19:19:19 INFO  Log:37 - Search process is success
+2023-07-30 19:19:21 INFO  Log:37 - Minimum and maximum price range determined
+2023-07-30 19:19:30 INFO  Log:37 - Go to main page
+2023-07-30 19:19:41 INFO  Log:37 - Main page direction is success
+2023-07-30 19:19:41 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-07-30 19:19:51 INFO  Log:37 - Wanted: BABY SHOES
+2023-07-30 19:19:51 INFO  Log:37 - Listed: BABY SHOES
+2023-07-30 19:19:54 INFO  Log:37 - Search process is success
+2023-07-30 19:19:56 INFO  Log:37 - The products are listed by low to high
+2023-07-30 19:20:01 INFO  Log:37 - Go to main page
+2023-07-30 19:20:27 INFO  Log:37 - Go to main page
+2023-07-30 19:20:38 INFO  Log:37 - Main page direction is success
+2023-07-30 19:20:41 INFO  Log:37 - Verification of Brand page links
+2023-07-30 19:20:47 INFO  Log:37 - Go to main page
+2023-07-30 19:20:57 INFO  Log:37 - Main page direction is success
+2023-07-30 19:21:05 INFO  Log:37 - listed products are filtered by color
+2023-07-30 19:21:10 INFO  Log:37 - products listed are filtered by size
+2023-07-30 19:21:16 INFO  Log:37 - Successful filtering verified
+2023-07-30 19:21:21 INFO  Log:37 - Go to main page
+2023-07-30 19:21:33 INFO  Log:37 - Main page direction is success
+2023-07-30 19:21:40 INFO  Log:37 - Sale Zone page is opened
+2023-07-30 19:21:46 INFO  Log:37 - Go to main page
+2023-07-30 19:22:24 INFO  Log:37 - Main page direction is success
+2023-07-30 19:22:24 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-07-30 19:22:31 INFO  Log:37 - Wanted: BABY SHOES
+2023-07-30 19:22:31 INFO  Log:37 - Listed: BABY SHOES
+2023-07-30 19:22:33 INFO  Log:37 - Search process is success
+2023-07-30 19:22:38 INFO  Log:37 - One of the listed products was selected
+2023-07-30 19:22:39 INFO  Log:37 - Product added to cart
+2023-07-30 19:22:43 INFO  Log:37 - Verified that the selected product is in the cart
+2023-07-30 19:23:05 INFO  Log:37 - One product selected
+2023-07-30 19:23:26 INFO  Log:37 - Go to main page
+2023-07-30 19:23:37 INFO  Log:37 - Main page direction is success
+2023-07-30 19:23:43 INFO  Log:37 - currency selected
+2023-07-30 19:23:52 INFO  Log:37 - Verified that products are listed according to the selected currency
+2023-07-30 19:23:57 INFO  Log:37 - Go to main page
+2023-07-30 19:24:10 INFO  Log:37 - Main page direction is success
+2023-07-30 19:24:12 INFO  Log:37 - Home category test starts
+2023-07-30 19:24:21 INFO  Log:37 - Go to main page
+2023-07-30 19:24:32 INFO  Log:37 - Main page direction is success
+2023-07-30 19:24:32 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-07-30 19:24:38 INFO  Log:37 - Wanted: BABY SHOES
+2023-07-30 19:24:38 INFO  Log:37 - Listed: BABY SHOES
+2023-07-30 19:24:40 INFO  Log:37 - Search process is success
+2023-07-30 19:24:43 INFO  Log:37 - One of the listed products was selected
+2023-07-30 19:24:45 INFO  Log:37 - Product added to cart
+2023-07-30 19:24:49 INFO  Log:37 - Verified that the selected product is in the cart
+2023-07-30 19:24:49 INFO  Log:37 - Product count verification test starts
+2023-07-30 19:24:54 INFO  Log:37 - Confirmed increase in the number of products with the plus button
+2023-07-30 19:24:58 INFO  Log:37 - Confirmed decrease in the number of products with minus button
+2023-07-30 19:25:03 INFO  Log:37 - Go to main page
+2023-07-30 19:25:15 INFO  Log:37 - Main page direction is success
+2023-07-30 19:25:15 INFO  Log:37 - Test of best-selling product listings begins
+2023-07-30 19:31:56 INFO  Log:37 - Go to main page
+2023-07-30 19:32:07 INFO  Log:37 - Main page direction is success
+2023-07-30 19:32:07 INFO  Log:37 - Starting sign in process
+2023-07-30 19:32:58 INFO  Log:37 - Sign in process is success
+2023-07-30 19:32:58 INFO  Log:37 - Starting sign out process
+2023-07-30 19:33:04 INFO  Log:37 - Sign out process is success
+2023-07-30 19:33:09 INFO  Log:37 - Go to main page
+2023-07-30 19:33:20 INFO  Log:37 - Main page direction is success
+2023-07-30 19:33:20 INFO  Log:37 - Shein main category verification starts
+2023-07-30 19:33:20 INFO  Log:37 - Main categories verified
+2023-07-30 19:33:26 INFO  Log:37 - Go to main page
+2023-07-30 19:33:38 INFO  Log:37 - Main page direction is success
+2023-07-30 19:33:38 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-30 19:33:47 INFO  Log:37 - Wanted: JEANS
+2023-07-30 19:33:47 INFO  Log:37 - Listed: JEANS
+2023-07-30 19:33:49 INFO  Log:37 - Search process is success
+2023-07-30 19:33:54 INFO  Log:37 - Go to main page
+2023-07-30 19:34:06 INFO  Log:37 - Main page direction is success
+2023-07-30 19:34:06 INFO  Log:37 - Starting search process : shirts is/are listed
+2023-07-30 19:34:14 INFO  Log:37 - Wanted: SHIRTS
+2023-07-30 19:34:14 INFO  Log:37 - Listed: SHIRTS
+2023-07-30 19:34:16 INFO  Log:37 - Search process is success
+2023-07-30 19:34:18 INFO  Log:37 - The products are listed by high to low
+2023-07-30 19:34:27 INFO  Log:37 - Go to main page
+2023-07-30 19:34:54 INFO  Log:37 - Go to main page
+2023-07-30 19:35:05 INFO  Log:37 - Main page direction is success
+2023-07-30 19:35:05 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-07-30 19:35:12 INFO  Log:37 - Wanted: BABY SHOES
+2023-07-30 19:35:12 INFO  Log:37 - Listed: BABY SHOES
+2023-07-30 19:35:14 INFO  Log:37 - Search process is success
+2023-07-30 19:35:34 INFO  Log:37 - Go to main page
+2023-07-30 19:35:48 INFO  Log:37 - Main page direction is success
+2023-07-30 19:35:48 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-07-30 19:35:55 INFO  Log:37 - Wanted: BABY SHOES
+2023-07-30 19:35:55 INFO  Log:37 - Listed: BABY SHOES
+2023-07-30 19:35:57 INFO  Log:37 - Search process is success
+2023-07-30 19:36:01 INFO  Log:37 - One of the listed products was selected
+2023-07-30 19:36:02 INFO  Log:37 - Product added to cart
+2023-07-30 19:36:05 INFO  Log:37 - Verified that the selected product is in the cart
+2023-07-30 19:36:10 INFO  Log:37 - Go to main page
+2023-07-30 19:36:22 INFO  Log:37 - Main page direction is success
+2023-07-30 19:36:25 INFO  Log:37 - Verification of Brand page links
+2023-07-30 19:36:31 INFO  Log:37 - Go to main page
+2023-07-30 19:36:43 INFO  Log:37 - Main page direction is success
+2023-07-30 19:36:50 INFO  Log:37 - listed products are filtered by color
+2023-07-30 19:36:55 INFO  Log:37 - products listed are filtered by size
+2023-07-30 19:36:59 INFO  Log:37 - Successful filtering verified
+2023-07-30 19:37:04 INFO  Log:37 - Go to main page
+2023-07-30 19:37:17 INFO  Log:37 - Main page direction is success
+2023-07-30 19:37:24 INFO  Log:37 - Sale Zone page is opened
+2023-07-30 19:37:30 INFO  Log:37 - Go to main page
+2023-07-30 19:37:59 INFO  Log:37 - Go to main page
+2023-07-30 19:38:10 INFO  Log:37 - Main page direction is success
+2023-07-30 19:38:16 INFO  Log:37 - currency selected
+2023-07-30 19:38:25 INFO  Log:37 - Verified that products are listed according to the selected currency
+2023-07-30 19:38:30 INFO  Log:37 - Go to main page
+2023-07-30 19:38:42 INFO  Log:37 - Main page direction is success
+2023-07-30 19:38:44 INFO  Log:37 - Home category test starts
+2023-07-30 19:38:51 INFO  Log:37 - Go to main page
+2023-07-30 19:39:02 INFO  Log:37 - Main page direction is success
+2023-07-30 19:39:02 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-07-30 19:39:08 INFO  Log:37 - Wanted: BABY SHOES
+2023-07-30 19:39:08 INFO  Log:37 - Listed: BABY SHOES
+2023-07-30 19:39:10 INFO  Log:37 - Search process is success
+2023-07-30 19:39:14 INFO  Log:37 - One of the listed products was selected
+2023-07-30 19:39:15 INFO  Log:37 - Product added to cart
+2023-07-30 19:39:25 INFO  Log:37 - Go to main page
+2023-07-30 19:39:37 INFO  Log:37 - Main page direction is success
+2023-07-30 19:39:37 INFO  Log:37 - Test of best-selling product listings begins
+2023-07-30 19:54:13 INFO  Log:37 - Go to main page
+2023-07-31 00:09:58 INFO  Log:37 - Go to main page
+2023-07-31 00:10:10 INFO  Log:37 - Main page direction is success
+2023-07-31 00:10:10 INFO  Log:37 - Starting sign in process
+2023-07-31 00:13:47 INFO  Log:37 - Go to main page
+2023-07-31 00:13:59 INFO  Log:37 - Main page direction is success
+2023-07-31 00:13:59 INFO  Log:37 - Starting sign in process
+2023-07-31 00:15:07 INFO  Log:37 - Go to main page
+2023-07-31 00:15:19 INFO  Log:37 - Main page direction is success
+2023-07-31 00:15:19 INFO  Log:37 - Starting sign in process
+2023-07-31 00:17:05 INFO  Log:37 - Go to main page
+2023-07-31 00:17:16 INFO  Log:37 - Main page direction is success
+2023-07-31 00:17:16 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-31 00:18:44 INFO  Log:37 - Go to main page
+2023-07-31 00:18:56 INFO  Log:37 - Main page direction is success
+2023-07-31 00:18:56 INFO  Log:37 - Starting search process : jeans is/are listed
+2023-07-31 00:24:05 INFO  Log:37 - Go to main page
+2023-07-31 00:24:28 INFO  Log:37 - Go to main page
+2023-07-31 00:24:40 INFO  Log:37 - Main page direction is success
+2023-07-31 00:24:40 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-07-31 00:24:47 INFO  Log:37 - Wanted: BABY SHOES
+2023-07-31 00:24:47 INFO  Log:37 - Listed: BABY SHOES
+2023-07-31 00:24:49 INFO  Log:37 - Search process is success
+2023-07-31 00:24:53 INFO  Log:37 - One of the listed products was selected
+2023-07-31 00:24:54 INFO  Log:37 - Product added to cart
+2023-07-31 00:24:59 INFO  Log:37 - Verified that the selected product is in the cart
+2023-07-31 00:26:19 INFO  Log:37 - Go to main page
+2023-07-31 00:26:31 INFO  Log:37 - Main page direction is success
+2023-07-31 00:26:31 INFO  Log:37 - Starting search process : baby shoes is/are listed
+2023-07-31 00:26:38 INFO  Log:37 - Wanted: BABY SHOES
+2023-07-31 00:26:38 INFO  Log:37 - Listed: BABY SHOES
+2023-07-31 00:26:40 INFO  Log:37 - Search process is success
+2023-07-31 00:26:50 INFO  Log:37 - One of the listed products was selected
+2023-07-31 00:26:52 INFO  Log:37 - Product added to cart
+2023-07-31 00:26:55 INFO  Log:37 - Verified that the selected product is in the cart
+2023-07-31 00:29:32 INFO  Log:37 - Go to main page
+2023-07-31 00:29:44 INFO  Log:37 - Main page direction is success
+2023-07-31 00:29:50 INFO  Log:37 - currency selected
+2023-07-31 00:30:02 INFO  Log:37 - Verified that products are listed according to the selected currency
